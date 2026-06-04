@@ -1,0 +1,116 @@
+# gabo632.github.io
+pajina web de frankie
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Frankie - Héroe del Fútbol Americano</title>
+
+```
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f8fc;
+        margin: 20px;
+        line-height: 1.6;
+    }
+
+    h1, h3 {
+        color: darkblue;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .imagen-frankie {
+        display: block;
+        margin: 20px auto;
+        width: 400px;
+        max-width: 90%;
+        border: 4px solid darkblue;
+        border-radius: 10px;
+    }
+
+    a {
+        color: darkblue;
+    }
+</style>
+```
+
+</head>
+
+<body>
+
+```
+<h1 id="frankie">Frankie</h1>
+
+<img src="frankie.png" alt="Frankie, héroe del fútbol americano" class="imagen-frankie">
+
+<p style="text-align:center;">
+    <strong>Capitán • Atleta • Héroe Local</strong>
+</p>
+
+<p>
+    Saltar a las secciones:
+    <a href="#football">Carrera Deportiva</a>,
+    <a href="#hero">Acto Heroico</a>
+</p>
+
+<p>
+    <strong>Frankie</strong> es un jugador de fútbol americano y capitán de su equipo.
+    Es conocido por ser alto, fuerte y un líder natural. Sus compañeros lo
+    respetan porque siempre ayuda a los demás y nunca se rinde.
+</p>
+
+<p>
+    Frankie está orgulloso de quien es y anima a las personas a ser ellas mismas.
+    Cree que el valor, la amabilidad y el trabajo en equipo son las cualidades
+    más importantes que una persona puede tener.
+</p>
+
+<h3 id="football">Carrera Deportiva</h3>
+
+<p>
+    Como capitán de su equipo de fútbol americano, Frankie lidera con el ejemplo.
+    Entrena duro todos los días y motiva a sus compañeros a dar lo mejor de sí.
+    Su fuerza, velocidad y determinación han ayudado a su equipo a ganar muchos
+    partidos importantes.
+</p>
+
+<p>
+    Los entrenadores admiran a Frankie porque es disciplinado y siempre pone al
+    equipo por delante de sí mismo. Su sueño es inspirar a jóvenes atletas de
+    todo el país.
+</p>
+
+<h3 id="hero">Acto Heroico</h3>
+
+<p>
+    Frankie sobrevivió a un trágico atentado con bomba en una escuela de los
+    Estados Unidos. Durante la emergencia, mantuvo la calma y ayudó a cinco
+    estudiantes a escapar del fuego y del espeso humo.
+</p>
+
+<p>
+    Su valentía salvó vidas y le otorgó el título de héroe local. Después del
+    incidente, el alcalde le entregó una medalla especial por su coraje y
+    generosidad. Muchas personas de la ciudad lo consideran un ejemplo de
+    verdadero heroísmo.
+</p>
+
+<p>
+    Hoy en día, Frankie continúa ayudando a los demás mientras sigue su carrera
+    en el fútbol americano. Su historia les recuerda a las personas que los
+    verdaderos héroes son aquellos que ponen a los demás por delante de sí mismos
+    en momentos de peligro.
+</p>
+
+<p>
+    <a href="#frankie">Volver al inicio</a>
+</p>
+```
+
+</body>
+</html>
